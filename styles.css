@@ -1,0 +1,49 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #f5f50f;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    color: red;
+}
+
+main {
+    text-align: center;
+}
+
+#apology img {
+    max-width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0,200,0,100);
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #888;
+}
+
+footer p {
+    font-size: 0.8em;
+}
+
+footer p strong {
+    color: #333;
+}
