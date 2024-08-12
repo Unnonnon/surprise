@@ -1,3 +1,10 @@
+#clickable-area {
+            width: 100%;
+            height: 100vh; /* به اندازه کل صفحه */
+            background: url('https://example.com/placeholder-image.jpg') no-repeat center center;
+            background-size: cover;
+            cursor: pointer; /* نشان‌دهنده قابل کلیک بودن */
+}
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #f0f0f0;
